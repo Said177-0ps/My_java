@@ -1,7 +1,7 @@
 public class Homework5 {
     public static void main(String[] args) {
        int[] mymassive = {34, 65, 43, 12, 155, 178, 134, 67, 80, 100};
-         //незнаю как сделать но знаю какое операция <
+         //незнаю как сделать
 
         String[] dayofweeks = {"monday", "tuesday", "wendsday", "thursday", "friday", "saturday", "sunday"};
 
@@ -24,5 +24,7 @@ public class Homework5 {
         System.out.println(dayofweeks[2]);
         System.out.println(dayofweeks[4]);
         System.out.println(dayofweeks[6]);
+
+
         }
     }
