@@ -23,6 +23,28 @@ public class main {
             System.out.println("You like classic books");
         } else if (favoritebook == "Harry Potter") {
             System.out.println("You like magic books");
+        } else {
+            System.out.println("You have good Taste in Books");
         }
+
+
+        int[] myMassive = {123, 45, 67, 90, 140, 156};
+
+        if (myMassive[0] > 100 ) {
+            System.out.println(myMassive[0]);
+        } if (myMassive[1] > 100 ) {
+            System.out.println(myMassive[1]);
+        } if (myMassive[2] > 100 ) {
+            System.out.println(myMassive[2]);
+        } if (myMassive[3] > 100 ) {
+            System.out.println(myMassive[3]);
+        } if (myMassive[4] > 100 ) {
+            System.out.println(myMassive[4]);
+        } if (myMassive[5] > 100 ) {
+            System.out.println(myMassive[5]);
+        }
+
     }
+
+
 }
